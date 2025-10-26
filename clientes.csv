@@ -1,0 +1,21 @@
+id_cliente,nombre,edad,genero,region,frecuencia_compra
+1,Camila Soto,28,F,Metropolitana,Alta
+2,Jorge Paredes,35,M,Araucania,Media
+3,Laura Díaz,22,F,Biobio,Baja
+4,Andrés Silva,40,M,Los Lagos,Alta
+5,Valentina Muñoz,30,F,Araucania,Media
+6,Francisco Torres,45,M,Metropolitana,Baja
+7,Daniela López,27,F,Los Rios,Alta
+8,Matías Fuentes,33,M,Biobio,Media
+9,Paula Herrera,26,F,Araucania,Alta
+10,Diego Soto,39,M,Metropolitana,Baja
+11,Ignacio Rojas,31,M,Los Lagos,Alta
+12,Catalina Pérez,24,F,Biobio,Media
+13,Nicolás Díaz,29,M,Araucania,Baja
+14,Antonia Ruiz,32,F,Metropolitana,Alta
+15,Felipe Castro,36,M,Los Rios,Media
+16,Constanza Silva,25,F,Araucania,Alta
+17,Benjamín Araya,34,M,Biobio,Media
+18,María Torres,29,F,Metropolitana,Baja
+19,Tomás Herrera,37,M,Los Lagos,Alta
+20,Josefa Morales,23,F,Araucania,Media

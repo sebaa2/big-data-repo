@@ -1,0 +1,21 @@
+id_producto,nombre_producto,categoria,stock,precio,proveedor
+101,Notebook Lenovo,Computadores,30,599990,Lenovo
+102,Mouse Logitech,Perifericos,140,14990,Logitech
+103,Monitor LG,Monitores,45,129990,LG
+104,Teclado Redragon,Perifericos,90,29990,Redragon
+105,SSD Kingston,Almacenamiento,55,49990,Kingston
+106,Audifonos Sony,Audio,60,39990,Sony
+107,Tablet Samsung,Tablets,20,249990,Samsung
+108,Disco Duro Seagate,Almacenamiento,70,69990,Seagate
+109,Impresora HP,Impresoras,25,119990,HP
+110,Smartwatch Huawei,Wearables,35,99990,Huawei
+111,Notebook HP,Computadores,28,649990,HP
+112,Mouse Razer,Perifericos,85,29990,Razer
+113,Monitor Samsung,Monitores,38,139990,Samsung
+114,SSD Crucial,Almacenamiento,65,45990,Crucial
+115,Teclado Logitech,Perifericos,100,39990,Logitech
+116,Audifonos JBL,Audio,75,49990,JBL
+117,Disco Duro WD,Almacenamiento,80,79990,Western Digital
+118,Tablet Lenovo,Tablets,18,279990,Lenovo
+119,Impresora Canon,Impresoras,22,109990,Canon
+120,Smartwatch Xiaomi,Wearables,40,89990,Xiaomi
